@@ -2,7 +2,7 @@
 
 1. Clone this repo:
 
-    `git clone https://github.com/DanAtlas/next-boilerplate.git`
+    `git clone https://github.com/DanAtlas/omnis-tec-test.git`
 
 2. Install all packages:
 

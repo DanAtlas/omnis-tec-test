@@ -7,8 +7,8 @@ const Home: NextPage = () => {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Next.js boilerplate</title>
-        <meta name="description" content="Next.js boilerplate" />
+        <title>Omnis-tec Test</title>
+        <meta name="description" content="Omnis-tec Test" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
