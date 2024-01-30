@@ -1,0 +1,27 @@
+@import '../../styles/globals.scss';
+
+.form {
+  padding: 15px;
+
+  &__title {
+    margin-top: 0;
+  }
+
+  &__sample,
+  &__input,
+  &__select {
+    height: 30px;
+    width: 100%;
+    max-width: 200px;
+    margin-bottom: 12px;
+  }
+
+  &__input,
+  &__select {
+    padding: 4px 12px;
+  }
+
+  &__sample {
+    background-color: $colorLight;
+  }
+}

@@ -1,0 +1,10 @@
+@import '../../styles/globals.scss';
+
+.layout {
+  display: flex;
+  flex-direction: column;
+
+  @include respond-to(md) {
+    flex-direction: row;
+  }
+}

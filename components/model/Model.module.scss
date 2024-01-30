@@ -1,0 +1,17 @@
+@import '../../styles/globals.scss';
+
+.model {
+  padding: 0 12px;
+  margin: 0 0 12px;
+  border: 1px solid;
+  border-radius: 10px;
+  cursor: pointer;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+
+  &:hover {
+    background-color: $colorLighter;
+  }
+}
